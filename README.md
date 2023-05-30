@@ -1,2 +1,6 @@
-This is a test for static webhosting with GitHub Pages.
-KENARDO.net is coming soon
+## KENARDO.net is currently under construction as we move to static hosting on GitHub Pages
+
+Please excuse our mess while I re-learn CSS
+
+---
+Copyright 2023© - Kristoffer Mitchell
