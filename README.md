@@ -2,5 +2,6 @@
 
 Please excuse our mess while I re-learn CSS
 
----
-Copyright 2023© - Kristoffer Mitchell
+<footer>
+  <p>Copyright 2023© - Kristoffer Mitchell</p>
+</footer>
